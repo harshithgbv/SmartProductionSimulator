@@ -1,0 +1,10 @@
+# Compiled Java class files
+bin/
+*.class
+
+# Eclipse project build output
+.settings/
+
+# OS artefacts
+Thumbs.db
+.DS_Store
